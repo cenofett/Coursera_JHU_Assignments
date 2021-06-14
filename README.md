@@ -1,4 +1,4 @@
-# Coursera_JHU_Assignments
+# Coursera HTM, CSS, and JavaScript for Web Deveopers
 HTML, CSS, and Javascript for Web Developers
 
 
